@@ -16,5 +16,5 @@ Once you have these prerequisites installed, you can proceed with the following 
 - Create a virtual environment and activate it using python3 -m venv venv and source venv/bin/activate
 - Install the required packages using pip install -r requirements.txt
 - Configure your Google Cloud Console account by following the instructions in the Google Sheets API documentation
-- Run the main.py script using python main.py
+- Run the main.py script using python main.py or double click in the 'run.bat' file
 - The main.py script will retrieve data from the Cryptofolio API and send it to a Google Spreadsheet.
