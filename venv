@@ -1,6 +1,0 @@
-cd /path/to/script
-python -m venv env
-env\Scripts\activate  (on Windows)
-source env/bin/activate  (on Unix-based systems)
-pip install requests
-pip freeze > requirements.txt
